@@ -1,0 +1,10 @@
+{
+  "description": "This dashboard provides dealerships with real-time performance analytics, lead tracking, and priority alerts to optimize sales and enhance decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
