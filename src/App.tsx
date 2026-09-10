@@ -3,6 +3,7 @@ import {
   AreaChart, Area, BarChart, Bar, XAxis, YAxis, CartesianGrid,
   Tooltip, ResponsiveContainer, Cell, RadialBarChart, RadialBar,
 } from "recharts";
+import { Analytics } from "@vercel/analytics/next";
 import {
   getPipeline, getMonthlyChart, getBranchStats, getAgingLeads,
   getLostReasons, getSourceStats, getKPIs, fmtCrore, fmtLakh,
